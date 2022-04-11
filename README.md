@@ -1,4 +1,4 @@
-# Alura Midi
+# Alura Typer
 
 ![Imagem alura typer](https://user-images.githubusercontent.com/52006543/162598663-8ba1cea5-011b-4378-a181-0b4c44dba4fc.png)
 
